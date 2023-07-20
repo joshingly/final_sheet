@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = 'An opinionated static site generator.'
   spec.homepage = 'https://github.com/joshingly/final_sheet'
-  spec.license = 'AGPLv3'
+  spec.license = 'AGPL-3.0-or-later'
   spec.required_ruby_version = '>= 3.2'
 
   spec.metadata['homepage_uri'] = spec.homepage

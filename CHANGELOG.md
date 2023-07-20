@@ -3,7 +3,7 @@
 
 ## [Unreleased]
 
-## [0.1.1] - 2023-07-19
+## [0.1.1] - 2023-07-20
 ### Fixed
 - final_sheet.gemspec files
 - final_sheet.gemspec license
